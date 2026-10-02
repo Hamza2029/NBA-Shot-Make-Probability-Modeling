@@ -27,8 +27,6 @@ The labeled dataset contained **425,719 shot attempts** with information describ
 
 Before modeling, I audited column types, missingness, duplicates, target balance, categorical cardinality, numeric ranges, and spatial consistency. I also parsed the defender-approach field from string representations of dictionaries into validated time-indexed measurements.
 
-> The original data is not included in this repository.
-
 ## Exploratory Analysis
 
 Several patterns shaped the feature design:
